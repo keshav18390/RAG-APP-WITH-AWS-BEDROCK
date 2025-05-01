@@ -1,1 +1,1 @@
-# RAG-APP-WITH-AWS-BEDROCK
+# AWS-Bedrock
